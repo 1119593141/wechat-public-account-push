@@ -20,14 +20,14 @@ export const config = {
   /**
    * 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔
    */
-  USERS: [
+  USERS: [oLOyZ6Fd1BhW-PtRJju8Ci0lwXX8
     {
       // 想要发送的人的名字
       name: "老婆",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "oLOyZ6Fd1BhW-PtRJju8Ci0lwXX8",
+      id: "",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "Q9H8J45WvAZmgIIqeoHQw7scst0_Tb8qn36-BcSmdk8",
+      useTemplateId: "jQEqqbe1ElKvJ436j0waPtFvMw8_qxps_lt6Dn8lY10",
       // 所在省份
       province: "河南",
       // 所在城市
